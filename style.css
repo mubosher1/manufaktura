@@ -1276,7 +1276,7 @@ footer a:hover {
 
 .container12 {
     max-width: 375px;
-    height: 300vh;
+    height: 200vh;
 }
 
 .container12 .h3 {
@@ -1287,7 +1287,7 @@ footer a:hover {
     line-height: 25px;
     color: white;
     text-align: center;
-    margin-top: 100px;
+    /* margin-top: 100px; */
     margin-left: 20px;
 }
 
@@ -1359,7 +1359,6 @@ footer a:hover {
     line-height: 18px;
     color: white;
     margin-left: 150px;
-    margin-top: 130px;
 }
 
 
@@ -1367,8 +1366,8 @@ footer a:hover {
 .container12 .imges {
     display: flex;
     gap: 10px;
-    margin-top: 50px;
     margin-left: 20px;
+    margin-top: 10px;
 }
 
 .container12 .imges .c4_img img {
@@ -1394,7 +1393,7 @@ footer a:hover {
 
 .container13 {
     max-width: 375px;
-    height: 200vh;
+    height: 170vh;
 }
 
 .container13 .banner13 {
@@ -1402,14 +1401,12 @@ footer a:hover {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    margin-top: -380px;
     display: flex;
 }
 
 
 .container13 .container13_text {
     margin-left: -50px;
-    margin-top: -90px;
 }
 
 .container13 .container13_text h1 {
@@ -1501,7 +1498,6 @@ footer a:hover {
     line-height: 28x;
     color: white;
     margin-bottom: 15px;
-    margin-top: 150px;
     text-align: center;
     padding: 0 20px;
 }
