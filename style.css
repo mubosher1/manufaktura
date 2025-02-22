@@ -1863,7 +1863,7 @@ footer a:hover {
 .media_footer{
     max-width: 375px;
     height: 90vh;
-    margin-top: -100px;
+    margin-top: -200px;
 }
 
 .media_footer .logo{
